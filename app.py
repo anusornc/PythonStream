@@ -4,7 +4,7 @@ import cv2
 # eye_cascade = cv2.CascadeClassifier('./haarcascade_eye.xml')
 app = Flask(__name__)
 
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 def gen_frames():
     while True:
         success, frame = cap.read()
