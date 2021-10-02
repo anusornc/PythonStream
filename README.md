@@ -1,4 +1,6 @@
 # PythonStream
-Python Video Streaming
-pip install flask
-pip install opencv-contrib-python
+
+Python Video Streaming <br>
+<br>
+pip install flask <br>
+pip install opencv-contrib-python <br>
